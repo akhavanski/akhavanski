@@ -1,6 +1,5 @@
 ---
-date: 2024-12-15
-layout: archive
+layout: page
 which_category: mental_model_idea
 ---
 
