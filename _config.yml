@@ -2,10 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
-theme: no-style-please
-
+theme: minimal
 name: Aliaksei Khavanski
-description:
+description: Personal site
 avatar: # URL
 google_analytics: # GA code
 
