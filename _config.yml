@@ -1,9 +1,8 @@
 title: Aliaksei Khavanski
 email: lietocake@gmail.com # email of site's author
-url: https://akhavsnki.github.io # root address of the site
+url: https://akhavasnki.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed)
-  It took me too much time to figure out how create a Jekyll site,
+description: Personal site of Aliaksei Khavanski # description of the site (multiple lines allowed)
 
 permalink: /:slug.html
 
