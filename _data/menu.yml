@@ -1,9 +1,9 @@
 entries:
-  - title: About me Обо мне
+  - title: Обо мне
     entries:
-      - title: Business Analyst with 5+ yoe, father with 1,5 yoe.
-      - title: Contact me via <a href="https://www.linkedin.com/in/akhavanski/">LinkedIn</a> or <a href="mailto:lietocake@gmail.com">lietocake@gmail.com</a>
-  - title: All posts
+      - title: Бизнес-аналитик с 5+ годами опыта, отец с 1.5 годами опыта.
+      - title: Мне можно писать на <a href="https://www.linkedin.com/in/akhavanski/">LinkedIn</a> или <a href="mailto:lietocake@gmail.com">lietocake@gmail.com</a>
+  - title: Посты
     post_list:
       limit: 5
       show_more: true
