@@ -3,7 +3,7 @@ entries:
     entries:
       - title: Business Analyst with over 5 yoe, father with 1,5 yoe.
       - title: Contact me via <a href="https://www.linkedin.com/in/akhavanski/">LinkedIn</a> or <a href="mailto:lietocake@gmail.com">lietocake@gmail.com</a>
-  - title: all posts
+  - title: All posts
     post_list:
       limit: 5
       show_more: true
