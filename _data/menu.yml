@@ -2,7 +2,7 @@ entries:
   - title: About me
     entries:
       - title: Business Analyst with over 5 yoe, father with 1,5 yoe.
-      - title: <a href="HTTP://linked.com/in/akhavanski">LinkedIn</a>, <a href="mailto:lietocake@gmail.com">lietocake@gmail.com</a>
+      - title: <a href="https://www.linkedin.com/in/akhavanski/">LinkedIn</a>, <a href="mailto:lietocake@gmail.com">lietocake@gmail.com</a>
   - title: all posts
     post_list:
       limit: 5
