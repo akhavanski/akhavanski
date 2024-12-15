@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 which_category: mental_model_idea
 title: Ментальные модели
 ---
