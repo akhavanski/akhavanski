@@ -1,43 +1,27 @@
-#
-# This file contains configuration flags to customize your site
-#
+title: no style, please! # name of the site
+author: Riccardo Graziosi # name of site's author
+email: riccardo.graziosi97@gmail.com # email of site's author
+url: https://riggraz.dev # root address of the site
+baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
-theme: jekyll-theme-minimal
-name: Aliaksei Khavanski
-description: Personal site
-avatar: # URL
-google_analytics: # GA code
+permalink: /:slug.html
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
-permalink: /:title/
-version: v1.2.0
+theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
 
-# Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed
 
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
