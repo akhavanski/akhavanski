@@ -11,3 +11,5 @@ which_category: mental_model_idea
 Цель данной страницы - собрать коллекцию таких ментальных моделей.
 
 ## Список постов о ментальных моделях
+
+{%-include post_list.html category=page.which_category-%}
