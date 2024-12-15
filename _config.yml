@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 
-theme: minimal
+theme: jekyll-theme-minimal
 name: Aliaksei Khavanski
 description: Personal site
 avatar: # URL
