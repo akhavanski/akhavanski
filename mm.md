@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 which_category: mental_model_idea
 ---
 
