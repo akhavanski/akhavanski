@@ -13,3 +13,5 @@ which_category: mental_model_idea
 ## Список постов о ментальных моделях
 
 {%-include post_list.html category=page.which_category-%}
+
+Text текст
