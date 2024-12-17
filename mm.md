@@ -8,4 +8,4 @@ title: "Ментальные модели"
 
 # Список постов о ментальных моделях
 
-1. <a href="/_posts/2024-12-15-greshams-law.html">Закон Грешэма</a>
+1. <a href="/_posts/greshams-law.html">Закон Грешэма</a>
